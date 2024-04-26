@@ -1,0 +1,2 @@
+browser "open -a firefox '%u'"
+auto-reload yes
